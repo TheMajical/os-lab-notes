@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Session 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "ba6cedd67ac72ff6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "950e722df8803752",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Session 1"
             }
           }
         ]
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Session 1"
             }
           },
           {
@@ -129,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Session 1"
             }
           },
           {
@@ -158,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Session 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Session 1"
             }
           }
         ]
@@ -186,6 +170,19 @@
   },
   "active": "11070dd5439ca237",
   "lastOpenFiles": [
+    "Session 3.md",
+    "Session 7.md",
+    "Session 8.md",
+    "Session 9.md",
+    "Session 10.md",
+    "Session 11.md",
+    "Session 1.md",
+    "Session 2.md",
+    "Session 4.md",
+    "Session 5.md",
+    "Session 6.md",
+    "statics/Pasted image 20250525014410.png",
+    "statics",
     "Welcome.md"
   ]
 }
