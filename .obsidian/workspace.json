@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Session 12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Session 12"
             }
           }
         ],
@@ -183,10 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5446c73b5cacdce",
+  "active": "9a8412f09fed802c",
   "lastOpenFiles": [
-    "Session 1.md",
+    "statics/Pasted image 20250526233238.png",
     "README.md",
+    "Session 12.md",
+    "Session 1.md",
     "Session 3.md",
     "Session 7.md",
     "Session 8.md",
